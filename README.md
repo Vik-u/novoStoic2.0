@@ -1,5 +1,5 @@
 # novoStoic2.0
-novoStoic2.0: Integrated Pathway Design Tool with Thermodynamic Considerations and Enzyme Selection
+novoStoic2.0: Integrated Pathway Design Tool with Thermodynamic Considerations and Enzyme Selection. It is a part of AlphaSynthesis Platform for NSF funded AI institute: Molecule Maker Lab Institute (MMLI), available at: https://moleculemaker.org/research/alphasynthesis/
 
 ### Requirements: 
 
